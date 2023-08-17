@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
 * { margin: 0; padding: 0;}
 
 html, body { min-height: 100%; overflow-x: hidden;}
 
-body {font-family: 'Space Grotesk', sans-serif; font-weight:400; color: #eceff1; background: linear-gradient(#222233, #111122); }
+body {font-family: 'Lato', sans-serif; font-weight:400; color: #eceff1; background: linear-gradient(#0A3B7F, #0A7C7F); }
 
 a { color: #78909c; text-decoration: none; }
 
@@ -12,7 +12,7 @@ a:hover { color: #b0bec5; text-decoration: none; }
 
 header, main, footer { width: 80vw; margin: 0; padding: 4vh 10vw; }
 
-main p{font-weight: 300; font-size: calc(2rem + 2vw); line-height: 1.2; color:rgba(255,255,255,.7);}
+main p{font-weight: 300; font-size: calc(1rem + 1vw); line-height: 1.2; color:rgba(255,255,255,.7);}
 
 main dl {
   display:block;
